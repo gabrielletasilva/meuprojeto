@@ -1,6 +1,6 @@
 # Móveis Customizados
 
-Desafio avançado - Recriando layout Stage 02
+Desafio 1 - Recriando layout Stage 02
 
 Visão Geral
 
